@@ -15,7 +15,7 @@ export default function Gallery() {
       <PageHeader
         eyebrow="Life at Pavna Learning"
         title="A look at campus life."
-        copy="Photography placeholders below are ready to be swapped for real campus photography — grid, aspect ratios, and lazy-loading are already wired up."
+        copy="Photography placeholders below are ready to be swapped for real Campus photography — grid, aspect ratios, and lazy-loading are already wired up."
       />
       <section className="container-page py-16 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {categories.map((c) => (
