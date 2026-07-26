@@ -9,7 +9,7 @@ export default function About() {
       <PageHeader
         eyebrow="About Us"
         title="Founded in 1998, built for the world ahead."
-        copy="Pavna School (formerly known as  DPS Aligarh) began as a dream held by Shri Pawan Jain — to build innovative, world-class education that shapes young minds in a supportive environment."
+        copy="Pavna School (formerly known as the  DPS Aligarh) began as a dream held by Shri Pawan Jain — to build innovative, world-class education that shapes young minds in a supportive environment."
       />
       <LegacyLedger />
       <Leadership />
