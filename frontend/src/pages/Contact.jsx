@@ -13,7 +13,7 @@ export default function Contact() {
 
       <section className="container-page py-16 grid lg:grid-cols-[1fr,1.1fr] gap-12">
         <div>
-          <p className="eyebrow">Register — page 03</p>
+          <p className="eyebrow">Register — pageNo 03</p>
           <h2 className="mt-2 font-display font-bold text-2xl md:text-3xl">Send a message</h2>
         </div>
         <div className="bg-chalk-soft border border-ink/10 rounded-sm p-6 md:p-8">
