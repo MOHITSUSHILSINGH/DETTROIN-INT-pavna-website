@@ -26,7 +26,7 @@ export default function App() {
         href="#main-content"
         className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-marigold focus:text-ink focus:px-4 focus:py-2 focus:rounded-sm"
       >
-        Skip to main content
+        Skip to main contents
       </a>
       <Navbar />
       <main id="main-content">
