@@ -1,3 +1,51 @@
+Name - MOHIT SINGH
+INTERN ID 
+email - singhmohit8039@gmail.com
+github username -MOHITSUSHILSINGH
+SELECTED WEBSITE - 
+Live DEMO Link-
+Technology used - Frontend
+React.js – UI library
+Vite – Build tool and development server
+React Router DOM – Client-side routing
+Tailwind CSS – Utility-first CSS framework
+PostCSS – CSS processing
+JavaScript (ES6+)
+HTML5
+CSS3
+Backend
+Node.js – JavaScript runtime
+Express.js – Backend web framework
+MongoDB – NoSQL database
+Mongoose – MongoDB ODM (Object Data Modeling)
+Environment & Configuration
+dotenv – Environment variable management (.env)
+CORS – Cross-Origin Resource Sharing
+Nodemon – Automatic server restart during development
+API
+REST API using Express
+Handles:
+Contact form submissions
+Enquiry form submissions
+Database
+MongoDB
+Collections/Models:
+ContactMessage
+EnquiryForm
+key improvement made =>
+
+
+* Developed a complete Mern stack version by adding a Node.js and Express backend.
+* Integrated MOngodb to persist Contact and Admission Enquiry data instead of handling only the frontend.
+* Built Restful API for Contact and Enquiry form submissions.
+* Added Mongoose model (`ContactMessage` and `EnquiryForm`) for structured database storage.
+* Connected frontend forms with backend APIs for dynamic data submission and storage.
+* Organized the backend into a modular architecture (`config`, `models`, `routes`) for better scalability and maintainability.
+* Implemented enviroment based configuration using `.env` and `dotenv`.
+* Configured *CORS to enable secure communication between the React frontend and Express backend.
+* Structured the project as separate frontend and backend applications, making it suitable for independent deployment.
+* Prepared the application for deployment using services such as MOngodb atlas , RENder, and VERCel
+
 # Pavna School — Redesign (MERN Stack Assessment Project)
 
 A ground-up redesign of the Pavna School, Aligarh website, built as a full MERN application
